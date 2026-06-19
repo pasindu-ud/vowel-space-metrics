@@ -125,7 +125,6 @@ def compute_procrustes_normalised_disparity(synth: np.ndarray,
     # Step 9: compute the translation vector (explicit)
     translation_vec = mu_gt - (effective_scale * (mu_synth @ R))
 
-    # Return a dictionary of results (useful for plotting and diagnostics)
     return {
         "X_transformed": X_transformed,
         "R": R,
