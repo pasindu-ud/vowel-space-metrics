@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 from scipy import linalg
 from scipy.spatial import ConvexHull
 
-from src.utils.constants import *
+from src.constants import *
 
 
 class Coordinate:
