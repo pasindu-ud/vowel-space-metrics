@@ -2,7 +2,7 @@
 
 ### _Interspeech 2026_
 
-Implementation of the **Vowel Space Overlap** and **Procrustes Normalised Disparity** metrics as phonetically grounded measures for evaluating synthetic speech during text-to-speech model training.
+This repository contains the implementation of the **Vowel Space Overlap** and **Procrustes Normalised Disparity** metrics as phonetically grounded measures for evaluating synthetic speech during text-to-speech model training.
 
 ![Interspeech 2026](./docs/Interspeech-2026.gif)
 
