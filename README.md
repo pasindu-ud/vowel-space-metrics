@@ -1,6 +1,6 @@
 ## Phonetically Grounded Vowel Space Metrics for Evaluating Synthetic Speech During TTS Model Training
 
-<h3 style="color: #6a737d;"><i>Interspeech 2026</i></h3>
+### _Interspeech 2026_
 
 Implementation of the **Vowel Space Overlap** and **Procrustes Normalised Disparity** metrics as phonetically grounded measures for evaluating synthetic speech during text-to-speech model training.
 
